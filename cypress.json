@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://frontend.docker.local",
+  "env": {
+    "url_base" : ""
+  },
+  "pluginsFile": "tests/e2e/plugins/index.js"
+}
