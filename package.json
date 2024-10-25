@@ -26,7 +26,7 @@
     "graphql-tag": "^2.10.1",
     "register-service-worker": "^1.6.2",
     "serve-static": "^1.13.2",
-    "vue": "^2.6.6",
+    "vue": "^3.0.0",
     "vue-apollo": "^3.0.0-beta.28",
     "vue-extend-layout": "^2.0.6",
     "vue-i18n": "^8.0.0",
